@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "notes.yashkarthik.xyz",
-    ignorePatterns: ["Journal", "Templates", "Output", ".obsidian", "Inbox.md"],
+    ignorePatterns: ["Journal", "Templates", "Output", ".obsidian", "Inbox.md", "Attachments/Textbooks"],
     defaultDateType: "created",
     theme: {
       cdnCaching: false,
