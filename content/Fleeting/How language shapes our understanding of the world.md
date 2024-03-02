@@ -1,0 +1,2 @@
+- [Words that Work](https://www.nateliason.com/notes/words-work-frank-luntz) by Frank Luntz.
+> When we are in love, we are not rational; we are emotional. ... my job is to look for the words that trigger the emotion. ... We know that words and emotion together are the most powerful force known to mankind. 

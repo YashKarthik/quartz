@@ -1,0 +1,5 @@
+During the COVID-induced lockdown, I came across Thinking, Fast and Slow, a challenging but fascinating book by Nobel Laureate Daniel Kahneman. It explores how our minds make decisions and showed me how easy it is to influence others' decisions. I realized that this understanding is at the heart of many social-media platforms, which influence users to keep them engaged and generate revenue. This means that humans need protection from those who deliberately exploit our weaknesses, especially the quirks of our brain.
+
+In my opinion, this issue is one of the most important facing the global community today, perhaps even more so than climate change. Algorithms influencing our choices in everything from food and clothing to political and religious affiliations. To address this issue, we need a collaborative effort from tech enthusiasts and entrepreneurs.
+
+Studying Computer Science at University of Illinois Urbana-Champaign will provide me with a strong foundation in computational thinking and problem solving, empowering me to explore innovative solutions to complex problems in the world today.

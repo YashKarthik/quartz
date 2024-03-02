@@ -1,0 +1,2 @@
+- New Year is literally just a change of numbers.
+- But humans just feel... different after it.

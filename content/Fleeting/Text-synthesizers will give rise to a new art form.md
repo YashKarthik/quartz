@@ -1,0 +1,2 @@
+- GPT is to text what Photoshop was to painting and photography.
+- Plain writing (paining/raw photos) will exist separate from prompted writing.

@@ -1,0 +1,13 @@
+- A lot of analogies compare using GPT for writing to using calculators for math–tools to speed up thinking.
+- These analogies try to justify using GPT for writing.
+- While I have no problem with others (and myself) using GPT for writing, I am exploring the potential impacts it might have on the user's writing skills.
+- There's some evidence that using a calculator negatively impacts a person mental-math skills. ==Unclear evidence.==
+- That same evidence also shows that using calculators frees up minds from the grunt-work, enabling them to tackle higher level problems.
+- So as a society, we've decided that once you can do the basic operations, it's ok to use calculators to speed up your work as what it's doing is not really math–there's math beyond just calculations.
+- First:: does using GPT to write, actually impact your own writing skills.
+- Second:: if it does impact negatively, do we move the goalpost of writing further–how we did with calculators and math.
+- _There's more to math than arithmetic_. What's the writing analog, if there's a writing analog.
+- The _more_ of writing could be feeling.
+
+From [[People/Nat Eliason]]'s [[References/What AI can't write.]]:
+> No matter how painful or beautiful AI writing becomes, there will always be something hollow about knowing there isn’t a real person on the other end. That won’t matter when you want to learn about a topic, find a simple recipe, or evaluate mattresses. But while a computer could string all the words together to create _Infinite Jest_ in equally beautiful and insane language, it cannot create the experience of knowing someone was tortured by the awful demons in its pages. We often read to learn. But we also read for reassurance that we’re not alone. That we’re not broken, not bad people, not hopeless. We want to know other people have felt those dark, terrifying feelings we hesitate to name because it might stop anyone from ever loving us again. We want to feel what others have felt. Can a computer reassure you're not alone? You’ll need to experience a life worth reading. Either through the wildness of your adventures or the depths of your introspection. You don’t have to delve into such dark topics that you end up hanging yourself. But if you’re not willing to reach that level of honesty in your work, you should probably give up now. Anything short of the rawest, most honest human connection will be gobbled up by robots.

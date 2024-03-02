@@ -1,0 +1,7 @@
+In 7th grade, as the youngest kids in the school robotics club, my friend and I were tasked with cleaning up the lab at the end of the day. Sorting the million little bolts and wires was a drudgerous chore which, to me, felt like more effort than solving a page full of equations.
+
+You know what they say, laziness is the mother of all inventions. As men of science, my friend & I got working and, over the course of a month, managed to build a reasonably-fully-functional TETRIX parts sorter.
+
+I knew how transformative technology is, it had been all around us. But actually leveraging it myself to automate a mundane task was when I truly grokked the power of technology. Building this robot sparked off a lifelong interest in robotics & programming, and seeing it work showed me that people + ingenuity can "affect things" around them.
+
+This was in 2017. Since then I've built fast & beautiful web apps; efficient, scalable backends; and experimented with a dozen different technologies, from the latest JS framework, to implementing the Ethereum Virtual Machine in Typescript, to supercharging MS Paint with AI. All kickstarted by my heartfelt disdain for boring work. This simple robot was a key milestone in my builder-journey and continues to hold a special place in my heart.

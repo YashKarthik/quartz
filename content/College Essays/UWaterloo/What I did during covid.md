@@ -1,0 +1,5 @@
+The pandemic forced many of us to adapt to new ways of living and learning. For me, this meant looking for ways to supplement my classes. As I ventured into the unknown, I stumbled upon a new side of the internet. The internet I knew up to this point was an entertainment heaven. Now I started to see a new version-a classroom where I could select my own teacher. I discovered science blogs, ebooks, MOOCs & online communities full of nerds like me.
+
+As I found my classroom in the virtual world, I turned my attention to my younger bro. As covid boxed him into the confines of our home, lack of social-interaction, school made him go berserk. While befriending him with pillow-fights, I enticed him to explore STEM. We started with LEGO robots & Scratch; currently he’s exploring 3D-printing & CAD-design.
+
+During the pandemic, I discovered the joy of learning and spent quality time with my family.

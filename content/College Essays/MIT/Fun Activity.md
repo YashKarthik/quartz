@@ -1,0 +1,5 @@
+As a little kid, I used to camp out on our balcony on stormy evenings in coastal Mumbai, and fly paper planes and spincopters–paper fans that spun in the wind. There was something mesmerizing about watching a sleek, aerodynamic piece of paper slice the air and glide gracefully. As I launched each spincopter, I would watch with excitement as it twirled and spun, its paper blades a blur, carried along by the powerful gusts of wind. The stormy weather added an extra element of risk, and I loved seeing the tiny spincopters brave the storm and climb upwards, sometimes coming back to me!
+
+When my brother was old enough, I was ready with a basket full of waste paper. I remember the nervous excitement on his face as he held his first spincopter in the wind. And the wonder and awe when it finally took off, spinning and twirling. Flying spincopters on stormy evenings has become a little family ritual now.
+
+Flying paper planes and spincopters will always be a fond memory for me. In a world that can often feel overwhelming, paper planes remind me to take a break and live the simpler moments of life.

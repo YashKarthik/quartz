@@ -1,0 +1,5 @@
+I love building apps and feel great pride when they're useful and intuitive enough for my mom. But this past summer, I dared to peak behind the curtains–I wanted to learn how computers really worked. This was too broad so I narrowed it down to stack-based-computers. These are simple virtual-computers that take bytecode input, execute operations on the stack, have heap memory region; stuff like that.
+
+The Ethereum Virtual Machine (EVM) is a pretty robust stack-machine, so to learn about computers, I built the EVM from scratch.
+
+I implemented the assembly instructions defined in the Ethereum standard (about 120 opcodes), wrote a bytecode parser to consume compiled smart contracts and simulated the execution context. All in...\*drumroll\*... Javascript. This is one of my favorite projects cuz I learnt \*\*soo\*\* much while building it: how signed-integers work, how jumping is related to if-else and how to segfault in JS.

@@ -1,0 +1,7 @@
+- How do generative models work?
+- Isn't it basically copying existing artwork?
+	- Isn't that what humans do?
+- What even is "creativity"?
+	- I think it's mostly about remixing existing stuff.
+		- The _stuff_ includes existing artwork, nature, imagination.
+	- Thus, humans and AI both are creative; AI is just faster at being creative.

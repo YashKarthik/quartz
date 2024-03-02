@@ -1,0 +1,3 @@
+- Representing words as vectors.
+- Two vectors that are close by are also similar words.
+- Better than a dict, cuz adjacent words in dict have nothing in common except alphabet ordering.

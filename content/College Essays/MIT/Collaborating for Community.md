@@ -1,0 +1,7 @@
+Nestled within the Shivalik hills in the Lesser Himalayas, 8 hours from the nearest town, with almost no cell-phone reception, Dungri, Uttarakhand, is a world apart. In April of 2018, about 50 students from schools across India gathered in Dungri as part of the Round Square Service Project. The project's goal was to connect the modern youth to rural India, so we are sensitive to the basic needs and issues pertinent to this region.
+
+We organized a meeting with the village elders to discuss and explain the project in detail. Among of the key focus areas of this project was improving sanitation ==(relate to Swatch Bharat)== and empowering the youth with basic skills. We built public toilets and renovated the adjacent community center. We raised awareness among the villagers about the importance of good sanitation and, in the community center, conducted workshops on vocational skills like sewing and electrical repair. Additionally, we set out to clean the nearby Idgad stream - the primary source of fresh water to the village.
+
+At the end of our project, we conducted surveys to determine the focus for the next service project.
+
+This was a great experience for me , as it was my first opportunity to contribute towards a meaningful cause.

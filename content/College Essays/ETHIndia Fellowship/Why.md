@@ -1,0 +1,9 @@
+I have always been fascinated by the transformative power of technology. As a young student, I started learning to code with Scratch and Lego robotics kits, and over the years, I have progressed to more advanced programming-languages like JavaScript and Solidity. I have also had the opportunity to work with programmers from word-wide on open-source software, which has helped me to hone my skills and learn the nuances of programming.
+
+One time my friend and I had to clean the robotics lab after a night of intense brainstorming. Rather than spending hours sorting the parts manually, we built a robot to do it for us. I knew how transformative technology was. It had been all around us. But actually applying it myself to automate (+make fun) a mundane task, like cleaning up a lab, was when I truly _grokked_ the power of technology.
+
+I am excited to apply to ETHIndia's Fellowship program because I believe it will provide me with an unparalleled opportunity to learn, grow, and contribute to computer science. The Fellowship will provide me with a chance to work with and learn from some of the leading experts in the field. I am confident that the mentors and peers I will be surrounded with will be able to provide valuable insights and guidance that will help me to advance my knowledge and skills.
+
+I also hope to take away from the Fellowship a sense of accomplishment and a strong sense of community. I believe that the friendships and connections I make during the Fellowship will be valuable both personally and professionally, and I am excited to be a part of such a vibrant and supportive community.
+
+Programming to me is like a superpower and I am eager to upgrade this skill by attending the ETHIndia Fellowship.
